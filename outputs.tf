@@ -40,10 +40,11 @@ output "nomad_gossip_key"{
 
 }
 
-
+/*
 output "test_demo"{
   value = uuid()
   sensitive = false
 
 }
+*/
 
